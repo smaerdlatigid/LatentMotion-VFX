@@ -2,7 +2,7 @@
 
 An exploration into poses and animations generated from a variational autoencoder trained on motion capture data
 
-![gif](https://i.imgur.com/QtOzHjU.gif)
+![](latentmotion1.gif)
 
 
 This project is synthesis of multiple projects:
