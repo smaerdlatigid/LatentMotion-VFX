@@ -1,0 +1,40 @@
+Yoga MoCap 02
+
+This package features a collection of 17 fbx animations for a bipedal humanoid character performing various Yoga moves in standing positions.
+
+Tiger Pose: Character moves onto its hands and knees then pulls its right leg towards its back.  
+
+Half Boat Pose: Character sits down then leans back with arms & legs extended, almost laying flat. 
+
+Boat Pose: Character sits down and brings legs into chest and extends arms.  
+
+Dolphin Plank Pose: Character gets down onto ground and extends legs while propping itself up with arms. Standard Plank position. 
+
+Core Plank Pose: Character gets down onto ground and extends legs while propping itself up with arms. Character brings right leg up towards its chest then back down.  
+
+One Legged Plank Pose: Character gets into plank pose then extends and lifts right leg into the air. 
+
+Side Plank Pose: Character gets into plank pose then rolls onto its left arm and extends its right arm up in the air. Left hand supports weight.
+
+Forearm Side Plank Pose: Character gets into plank pose then rolls onto its left forearm and extends its right arm up in the air. Left forearm supports weight.
+
+Backbend Sequence 01: Character bends backwards, forwards, reaches towards the ground and extends its right leg backwards, then rotates to the left and extends its 
+right arm. 
+
+Backbend Sequence 02: Character gets onto hands and knees then bends head up and down. Character then sits up on its knees and reaches back to grab feet. Holds then 
+releases.
+
+Backbend Sequence 03: Character lays on its back and extends right leg up. Then moves into a crab form and extends right left once again. 
+
+Backbend Sequence 03 Alt: Character lays on its back and extends right leg up. Then moves into a crab form and extends right left once again. Character then puts hands 
+together behind its back while still arched like a crab. Holds then releases. 
+
+Core Sequence 01: Character gets into plank pose then brings right leg forward, then extends it backwards. Character then rolls onto its left hand and extends its right 
+arm up in the air. Left hand supports weight.
+
+Core Sequence 02: Character gets into plank pose then bends over and extends pelvis into the air. Character then rolls onto its left forearm and extends its right arm up 
+in the air. Left forearm supports weight.
+
+Core Sequence 03: Character sits down and goes into Half Boat Pose then goes directly into Boat Pose. 
+
+If you have any questions feel free to contact us at support@morromotion.com

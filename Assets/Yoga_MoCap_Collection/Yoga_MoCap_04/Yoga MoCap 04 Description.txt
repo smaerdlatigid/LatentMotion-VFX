@@ -1,0 +1,43 @@
+Yoga MoCap 04
+
+This package features a collection of 16 fbx animations for a bipedal humanoid character performing various Yoga moves in standing positions.
+
+ Crow Pose: Character bends down to the ground. Puts hands onto ground and lifts rest of body up. Knees come into chest. 
+
+ Downward Facing Dog: Character bends forward tocuhing the ground with hands. Extends feet backwards and makes a bridge with body.
+
+ Flat Back Pose: Character bends over and reaches towards knees. 
+
+ Flying Pigeon Pose: Character rests left knee on right knee then bends forwards and puts hands onto ground. Lifts body off ground and extends right leg back 
+ towards the sky. Left leg is still off the ground.  
+
+ Forearm Stand: Character gets onto hands and knees then shifts weight onto forearms and lifts legs up into the air. 
+
+ Forward Fold Pose: Character bends down and touches the ground with hands. Puts head in between arms. 
+
+ Four Limbed Staff Pose: Character moves to ground on hands and feet. Character bends arms bringing body closer to ground then extends arms again to push body up. 
+
+ Hand Stand: Character bends forward and places hands onto ground. Shifts weight to hands and lifts legs into the air. 
+
+ Koudinya Pose: Character bends forward and places hands onto ground, extends feet backwards creating a bridge with body. Right leg extends up into the air then 
+ forward towards arms and finally extends out to the side. Left leg extends backwards. Body is off the ground with weight on hands. 
+
+ Namaste Pose: Character brings hands together infront of body in a peaceful manner. 
+
+ Plank Pose: Character bends down and puts hands onto ground. Extends legs backwards and lifts body off of ground. Weight is on hands and feet. 
+
+ Scorpion Pose: Character gets down onto forearms and knees. Puts weight on forwarms and lifts legs up into the air. Legs bend overtop of body like a scorpion stinger. 
+
+ Shoulder Stand: Character sits down onto ground then rolls backwards onto shuolders and extends legs up into the air. Hands support lower back.
+
+ Sun Salutation A Sequence: Character moves into Downward Facing Dog Pose, then moves into a Hand Stand, then quickly into Flat Back Pose and Forward Fold Pose. 
+ Character then reaches up towards the sky then back towards ground and knees again. Then character reaches to the ground with hands and lifts legs off ground and 
+ bounces them backwards, extending them out in the process. Character moves into Four Limbed Staff Pose then Upward Dog Pose, then finally back to Downard Facing 
+ Dog Pose and back to rest.  
+
+ Tadasana Pose: Character extends arms at sides with palms open, facing forwards. 
+
+ Upward Facing Dog Pose: Character bends down to ground and extends legs backwards. Weight is on hands and feet, body off ground. Character bends spine inwards and
+ lifts head up towards the sky. Back is curved.   
+
+If you have any questions feel free to contact us at support@morromotion.com

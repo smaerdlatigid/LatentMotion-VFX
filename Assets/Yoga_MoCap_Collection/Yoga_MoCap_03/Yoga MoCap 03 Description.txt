@@ -1,0 +1,45 @@
+Yoga MoCap 03
+
+This package features a collection of 17 fbx animations for a bipedal humanoid character performing various Yoga moves in standing positions.
+
+ Crescent_Lunge_Pose: Character bends down with both knees and reaches hands over head.
+
+ Crescent_Lunge_Twist_Pose: Character bends down with both knees and reaches hands over head. Character then brings both hands together infront of body and turns to 
+ the left, making a traingle with arms. 
+
+ Crescent_Lunge_Modified_Pose: Character streches right leg out onto the floor and bends left knee, while raising both hands up into the air.
+
+ Half_Moon_Pose: Character stands on left leg and extends right leg out backwards. Character extends left arm down to the ground and right arm into the air.
+
+ Headstand_Classic_Pose: Character goes down on all fours then rolls up onto arms and rests the back of its head on the ground, while lifting its legs up into the air.
+
+ Headstand_Tripod_Pose: Character goes down on all fours then uses both hands to push legs up into the air, while resting top of head on the ground. 
+
+ Poets_Pose: Character stands on left leg and reaches down to touch the ground with left arm. Right leg is out stretched backwards, and right arm is strecthing upwards. 
+
+ Reverse_Triangle_Pose: Character moves sideways, opens legs into a wide stance and then bends backwards lifting its left arm into the air. Left arm bends backwards 
+ towards head. Right arm hangs down at characters side. 
+
+ Reverse_Warrior_Pose: Character moves to a sideways stance. Extends both arms out, then bends backwards trying to touch right leg with right arm. 
+
+ Side_Angle_Pose: Character moves to a sideways stance. Extends both arms out, then bends forwards and tries to touch the ground with left arm. Right arm comes overhead.
+
+ Triangle_Pose: Character moves to a sideways stance. Extends both arms out, then bends forwards and tries to touch the ground with left arm.
+
+ Warrior_Pose_01: Character bends down with both knees and reaches hands over head. Right Foot stays flat with ground.
+
+ Warrior_Pose_02: Character moves to a sideways stance then extends both arms out.
+
+ Warrior_Pose_03: Character stands on left leg and extends right leg out backwards, while extending both arms out forwards. 
+
+ Warrior_Pose_Sequence_01: Character brings arms up above head, then straight out infront and behind, then up again. Character stands on left leg and extends right leg 
+ out backwards and left arm down to the ground. Right arm is streching upwards. Left arm is brought into chest then back down to ground. Character comes back to 
+ sideways pose with both arms extended out forwards and backwards.
+
+ Warrior_Pose_Sequence_02: Character bends down with both knees and reaches hands over head. Right foot stays flat on the ground. Character then brings both hands 
+ together infront of body and turns to the left, making a traingle with arms. Character then returns to a sideways pose with both arms extending outwards front and back.
+ Character then bends over and puts left arm to rest on left knee, while right arm  streches overhead. Character moves back to sideways pose breifly then bends backwards
+ moving right arm behind back and extending the left arm overhead. Character then returns to a sideways pose then bends forwards with left arm reaching for the ground 
+ and right arm reaching upwards.
+
+If you have any questions feel free to contact us at support@morromotion.com
