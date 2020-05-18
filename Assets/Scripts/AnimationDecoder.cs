@@ -87,7 +87,6 @@ public class AnimationDecoder : MonoBehaviour {
         }
     }
 
-
     void LateUpdate () {
         if (inputs == null) {
             return;

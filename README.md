@@ -1,18 +1,22 @@
 # Latent Motion
 
-An exploration into poses and animations generated from a variational autoencoder trained on motion capture data
+An exploration into poses and animations generated from a variational autoencoder trained on motion capture data. 
 
 ![](latentmotion1.gif)
 
+A dance is choreographed with audio reactive VFX.
 
-This project is synthesis of multiple projects:
+![](latentmotion2.gif)
+Video with audio: https://www.instagram.com/p/CAUDdFuFqVE/
 
-- **Animation Autoencoder** - a neural network is trained on motion capture data. The latent space can be randomly sampled to create new poses for a humanoid character
+This project is synthesis of:
 
-- **Smrvfx** is a Unity sample project that shows how to use an animated [skinned
+- [Animation Autoencoder](https://github.com/smaerdlatigid/AnimationAutoencoder) - a variational autoencoder is trained on motion capture data. Poses are sampled from the latent space. Built with TensorFlow Lite
+
+- [Smrvfx](https://github.com/keijiro/Smrvfx) is a Unity sample project that shows how to use an animated [skinned
 mesh] as a particle source in a [visual effect graph].
 
-- **WASAPI** - Audio reactive visual effects are created using Windows Audio and Sound API
+- [WASAPI](https://github.com/smaerdlatigid/Unity-WASAPI) - Audio reactive visual effects are created using Windows Audio and Sound API
 
 [skinned mesh]: https://docs.unity3d.com/Manual/class-SkinnedMeshRenderer.html
 [visual effect graph]: https://unity.com/visual-effect-graph

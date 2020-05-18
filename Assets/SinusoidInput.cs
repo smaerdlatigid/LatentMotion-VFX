@@ -30,7 +30,7 @@ public class SinusoidInput : MonoBehaviour
 
         GetComponent<AnimationDecoder>().inputs = new float[] { 
             amp1*Mathf.Sin(AudioAverageTime*freq1),
-            amp2*Mathf.Sin(AudioAverageTime*freq2),
+            amp2*Mathf.Cos(AudioAverageTime*freq2),
         };
     }
 }
