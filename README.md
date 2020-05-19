@@ -7,7 +7,12 @@ An exploration into poses and animations generated from a variational autoencode
 A dance is choreographed by sampling the latent space with a time varying Lissajous curve. Audio reactive VFX are created with Unity 3D
 
 ![](latentmotion2.gif)
+
 A video with audio: https://www.instagram.com/p/CAUDdFuFqVE/
+
+![](latentmotion3.gif)
+
+
 
 This project is synthesis of:
 

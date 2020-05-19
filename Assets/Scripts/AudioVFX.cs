@@ -33,7 +33,6 @@ public class AudioVFX : MonoBehaviour
         vis.SetFloat("AudioAverageTime", AudioAverageTime);
         vis.SetFloat("AudioSubTime", AudioSubTime);
 
-
         float[,] audioData = Audio.getBuffer(0);
 
         Texture2D texture = new Texture2D(Audio.bufferSize, Audio.SpectrumSize);
