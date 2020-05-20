@@ -1,6 +1,6 @@
 # Latent Motion
 
-An exploration into poses and animations generated from a variational autoencoder trained on motion capture data. 
+One of the first choreographed performances by an A.I. This project explores the representation of motion capture data through the eyes of a machine learning algorithm. A type of neural network, a variational autoencoder, is used to generate humanoid poses. A dance is choreographed in real-time and audio-reactive VFX are added with Unity3D.
 
 ![](latentmotion1.gif)
 
