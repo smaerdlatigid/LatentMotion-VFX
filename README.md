@@ -4,7 +4,7 @@ One of the first choreographed performances by an A.I. This project explores the
 
 ![](latentmotion1.gif)
 
-A dance is choreographed by sampling the latent space with a time varying Lissajous curve. Audio reactive VFX are created with Unity 3D
+A dance is choreographed by sampling the latent space with a time varying Lissajous curve. 
 
 ![](latentmotion2.gif)
 
