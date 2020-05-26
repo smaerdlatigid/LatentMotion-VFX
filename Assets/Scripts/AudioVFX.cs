@@ -26,8 +26,6 @@ public class AudioVFX : MonoBehaviour
         AudioAverageTime += Audio.WeightedAverage;
         AudioSubTime += Audio.WeightedPostScaledSpectrumData[0]; 
 
-        //vis.SetFloat("SpawnRate",100.0f*Audio.Average+100f*Audio.WeightedPostScaledSpectrumData[0]);
-        //Audio.WeightedPostScaledSpectrumData[i]
         vis.SetFloat("AudioAverage", Audio.WeightedAverage);
         vis.SetFloat("AudioSub", Audio.WeightedPostScaledSpectrumData[0]);
         vis.SetFloat("AudioAverageTime", AudioAverageTime);

@@ -12,6 +12,10 @@ A video with audio: https://www.instagram.com/p/CAUDdFuFqVE/
 
 ![](latentmotion3.gif)
 
+https://www.instagram.com/p/CAX0-uxBuW5/
+
+![](latentmotion4.gif)
+
 
 
 This project is synthesis of:
